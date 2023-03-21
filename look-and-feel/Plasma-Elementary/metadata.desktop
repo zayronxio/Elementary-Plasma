@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Plasma-Elementary
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=zayronxio@gmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Plasma-Elementary
+X-KDE-PluginInfo-Version=1.0
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1996080,kns://plasma-themes.knsrc/api.kde-look.org/1998726,kns://icons.knsrc/api.kde-look.org/1998755,kns://aurorae.knsrc/api.kde-look.org/2002414,kns://wallpaper.knsrc/api.kde-look.org/1998727,kns://plasmoids.knsrc/api.kde-look.org/1819888,kns://plasmoids.knsrc/api.kde-look.org/1473016,kns://plasmoids.knsrc/api.kde-look.org/1262649
+
+
+
